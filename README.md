@@ -28,14 +28,19 @@ Declare and define the function push
 PUSH FUNCTION:
 
 Check if top==9, print overflow
+
 else accept data from user,increment top, insert data at top position.
+
 Declare and define the function pop
 POP FUNCTION:
 Check if top==-1, print underflow
 else decrement top.
+
 Declare and define the function display
 DISPLAY FUNCTION:
+
 Print the array using for loop.
+
 
 Applications of Stack:
 Balancing of symbols: Stack is used for balancing a symbol.As we know, each program has an opening and closing braces; when the opening braces come, we push the braces in a stack, and when the closing braces appear, we pop the opening braces from the stack. Therefore, the net value comes out to be zero. If any symbol is left in the stack, it means that some syntax occurs in a program.
